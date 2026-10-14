@@ -24,3 +24,7 @@ Practical assignments are completed independently unless explicitly
 stated otherwise.
 
 See AGENTS.md for agent rules.
+
+## Теория
+
+[Раздел теории Node.js](theory/README.md) содержит русскоязычные материалы по официальной документации для первого изучения и повторения.

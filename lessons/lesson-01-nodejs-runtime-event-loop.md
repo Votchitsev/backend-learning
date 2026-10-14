@@ -32,6 +32,19 @@
 Читай материалы в указанном порядке. Цель — построить рабочую модель runtime,
 а не запомнить диаграмму Event Loop дословно.
 
+Для первого изучения есть [раздел теории](../theory/README.md):
+[About Node.js](../theory/runtime/about-nodejs.md),
+[Event Loop](../theory/event-loop/event-loop.md),
+[Understanding `process.nextTick()`](../theory/event-loop/understanding-nexttick.md),
+[`process.nextTick()` API](../theory/event-loop/process-nexttick-api.md),
+[`queueMicrotask()` vs `process.nextTick()`](../theory/event-loop/queuemicrotask-vs-nexttick.md),
+[Don't Block](../theory/event-loop/dont-block.md),
+[libuv Design Overview](../theory/libuv/design-overview.md),
+[libuv Filesystem](../theory/libuv/filesystem.md),
+[libuv Thread Pool](../theory/libuv/thread-pool.md) и
+[`node:perf_hooks`](../theory/performance/perf-hooks.md).
+Сверяй объяснения с официальными ссылками ниже.
+
 1. [About Node.js](https://nodejs.org/en/about)
    - Сосредоточься на определениях asynchronous, event-driven runtime и на
      модели обработки множества соединений небольшим числом threads.
