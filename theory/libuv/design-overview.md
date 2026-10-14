@@ -1,6 +1,6 @@
 # libuv Design overview
 
-Первоисточник: [libuv Design Overview](https://docs.libuv.org/en/v1.x/design.html). Сверено 14.10.2026 по документации ветки v1.x; актуальный выпуск ветки на дату сверки — [libuv v1.53.0](https://github.com/libuv/libuv/releases/tag/v1.53.0).
+Первоисточник: [libuv Design Overview](https://docs.libuv.org/en/v1.x/design.html). Версия документации для этого разбора: [libuv v1.53.0, исходный текст](https://github.com/libuv/libuv/blob/v1.53.0/docs/src/design.rst). Сверено 14.10.2026.
 
 ## Назначение libuv
 

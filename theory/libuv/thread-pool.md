@@ -1,6 +1,6 @@
 # libuv Thread pool work scheduling
 
-Первоисточник: [libuv Thread Pool](https://docs.libuv.org/en/v1.x/threadpool.html). Сверено 14.10.2026 по документации ветки v1.x; актуальный выпуск ветки на дату сверки — [libuv v1.53.0](https://github.com/libuv/libuv/releases/tag/v1.53.0).
+Первоисточник: [libuv Thread Pool](https://docs.libuv.org/en/v1.x/threadpool.html). Версия документации для этого разбора: [libuv v1.53.0, исходный текст](https://github.com/libuv/libuv/blob/v1.53.0/docs/src/threadpool.rst). Сверено 14.10.2026.
 
 ## Общий Thread Pool
 

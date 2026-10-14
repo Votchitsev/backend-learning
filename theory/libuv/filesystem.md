@@ -1,6 +1,6 @@
 # libuv Filesystem
 
-Первоисточник: [libuv File I/O / Filesystem](https://docs.libuv.org/en/v1.x/guide/filesystem.html). Сверено 14.10.2026 по документации ветки v1.x; актуальный выпуск ветки на дату сверки — [libuv v1.53.0](https://github.com/libuv/libuv/releases/tag/v1.53.0).
+Первоисточник: [libuv File I/O / Filesystem](https://docs.libuv.org/en/v1.x/guide/filesystem.html). Версия документации для этого разбора: [libuv v1.53.0, исходный текст](https://github.com/libuv/libuv/blob/v1.53.0/docs/src/guide/filesystem.rst). Сверено 14.10.2026.
 
 ## Файловые операции и callback
 
